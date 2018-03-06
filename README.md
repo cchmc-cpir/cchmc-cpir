@@ -11,11 +11,18 @@ This is the GitHub Organization for the Center for Pulmonary Imaging Research at
 
 <h2>Contributing</h2>
 
-Contribution guidelines can be found [here](CONTRIBUTING.md).
+Contribution guidelines and an in-depth explanation of how to use GitHub effectively can be found [here](CONTRIBUTING.md).
 
 <h2>GitHub Desktop</h2>
 
 GitHub Desktop can be downloaded [here](https://desktop.github.com/).
+
+<h2>Git/GitHub Tutorials</h2>
+
+* **[Git & GitHub Crash Course for Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)**
+  * Great starting point. Brad Traversy explains things very well and takes the time to define each term you might not be familiar with.
+* **[Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)**
+  * Awesome page. Huge fonts, explicit instructions (with descriptions of exactly what you're doing, and no more than you need to get started using Git from the terminal.
 
 <h2>MATLAB Style Guide</h2>
 
