@@ -1,5 +1,6 @@
 <h1 align="center">
 Cincinnati Children's Hospital Medical Center</br>Center for Pulmonary Imaging Research
+</h1>
 
 This code is used for regional analysis of dissolved phase hyperpolarized 129Xe cardiogenic oscillations. All dependencies should be included.
 
